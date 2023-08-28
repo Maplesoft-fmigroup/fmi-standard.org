@@ -196,7 +196,7 @@ It is recommended to
   * list these FMUs and/or provide links to the repository of the exporting tool where they can be downloaded.
   * provide additional information needed to reproduce the results of the importers (e.g., compiler flags).
 
-#### CSV Rules for inout and result files for compatibility information
+#### CSV Rules for input and result files for compatibility information
 
 CSV as input, output and reference file format is convenient as many tools support CSV import and export.
 However, CSV is not restrictive enough to allow easy exchange of time-based signals.
